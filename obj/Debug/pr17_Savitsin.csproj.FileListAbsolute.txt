@@ -1,0 +1,15 @@
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\bin\Debug\pr17_Savitsin.exe.config
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\bin\Debug\pr17_Savitsin.exe
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\bin\Debug\pr17_Savitsin.pdb
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\MainWindow.g.cs
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\App.g.cs
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin_MarkupCompile.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin_MarkupCompile.lref
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\MainWindow.baml
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin.g.resources
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin.Properties.Resources.resources
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin.exe
+C:\Users\305-8\Desktop\Савицин ПР-21\pr17_Savitsin\obj\Debug\pr17_Savitsin.pdb
